@@ -1,0 +1,5 @@
+1. Fuction fact() that calulates the factorial of the given integer, it will not calulate factorial if the given number is less or equal to 1.
+2. Function count_digits(), calls the factorial function, and calculates the digit's sum of the output of fact()
+   This function converts the fact() ouptut first to string and then calculates the sum of the characters in that string by converting each character to an integer.
+   Pre-defined functions like str and int are used. 
+3. The python interpreter first call the count_digit() function and its printed. 
